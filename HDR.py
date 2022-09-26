@@ -1,3 +1,6 @@
+#Import necessary packages
+import numpy as np
+from matplotlib import pyplot as plt
 #Load the Dataset and Normalize
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
